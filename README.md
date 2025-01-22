@@ -1,7 +1,7 @@
 # ArduinoProjects
 Collection of Arduino Projects made for school and personal use. Descriptions of each can be found below and within the projects themselves.
 
-## canArduinoTemplate
+## CANBusTemplates
 Simple example files for reading and sending over CAN bus
 
 ## gpsCanRead:
